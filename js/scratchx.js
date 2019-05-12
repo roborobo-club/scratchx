@@ -93,8 +93,9 @@ var swfAttributes = {
 };
 
 swfobject.addDomLoadEvent(function() {
+    console.log("bowser: %O", bowser);
     // check if mobile/tablet browser user bowser
-    if(bowser.mobile || bowser.tablet) {
+    if(bowser.mobile) {
         // if on mobile, show error screen
         handleEmbedStatus({success: false});
     } else {
