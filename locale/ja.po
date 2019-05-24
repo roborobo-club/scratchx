@@ -2112,3 +2112,85 @@ msgstr ""
 
 #~ msgid "New sound"
 #~ msgstr "新しい音"
+
+
+###############################################################################
+# EV3 Extension
+###############################################################################
+msgid "drive %m.dualMotors %m.turnStyle %n seconds"
+msgstr "drive: モータ %m.dualMotors を %m.turnStyle に %n 秒間だけ回転する"
+
+msgid "start motor %m.whichMotorPort speed %n"
+msgstr "start: モータ %m.whichMotorPort をパワー %n で回転する"
+
+msgid "rotate motor %m.whichMotorPort speed %n by %n degrees then %m.brakeCoast"
+msgstr "rotate: モータ %m.whichMotorPort をパワー %n で %n 度回転する %m.brakeCoast"
+
+msgid "stop motors %m.whichMotorPort %m.brakeCoast"
+msgstr "stop: モータ %m.whichMotorPort を止める %m.brakeCoast"
+
+msgid "set LED %m.patterns"
+msgstr "LEDを %m.patterns に光らせる"
+
+msgid "when button pressed on port %m.whichInputPort"
+msgstr "タッチセンサ %m.whichInputPort が押されたらプログラム開始"
+
+msgid "when IR remote %m.buttons pressed port %m.whichInputPort"
+msgstr ""
+
+msgid "button pressed %m.whichInputPort"
+msgstr "タッチセンサ %m.whichInputPort が押されたか判断する"
+
+msgid "play note %m.note duration %n ms"
+msgstr "%m.note の音を %n ミリ秒間ならす"
+
+msgid "play frequency %n duration %n ms"
+msgstr "周波数 %n の音を %n ミリ秒間ならす"
+
+msgid "light sensor %m.whichInputPort %m.lightSensorMode"
+msgstr "センサ %m.whichInputPort で %m.lightSensorMode を測る"
+
+msgid "measure distance %m.whichInputPort"
+msgstr "距離をセンサ %m.whichInputPort で測る"
+
+msgid "measure temp %m.whichInputPort"
+msgstr "温度をセンサ %m.whichInputPort で測る"
+
+msgid "remote button %m.whichInputPort"
+msgstr ""
+
+msgid "motor %m.motorInputMode %m.whichMotorIndividual"
+msgstr "お兄ちゃん、どいてそいつ殺せない"
+
+msgid "forward"
+msgstr "前向き"
+
+msgid "reflected"
+msgstr "光"
+
+msgid "green"
+msgstr "緑"
+
+msgid "red"
+msgstr "赤"
+
+msgid "orange"
+msgstr "オレンジ"
+
+msgid "green flashing"
+msgstr "緑 点滅"
+
+msgid "red flashing"
+msgstr "赤 点滅"
+
+msgid "orange flashing"
+msgstr "オレンジ 点滅"
+
+msgid "green pulse"
+msgstr "緑 パルス"
+
+msgid "red pulse"
+msgstr "赤 パルス"
+
+msgid "orange pulse"
+msgstr "オレンジ パルス"
