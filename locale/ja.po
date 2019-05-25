@@ -2160,7 +2160,7 @@ msgid "remote button %m.whichInputPort"
 msgstr ""
 
 msgid "motor %m.motorInputMode %m.whichMotorIndividual"
-msgstr "お兄ちゃん、どいてそいつ殺せない"
+msgstr ""
 
 msgid "forward"
 msgstr "前向き"
