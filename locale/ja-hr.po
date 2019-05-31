@@ -2119,13 +2119,13 @@ msgstr ""
 # EV3
 ###############################################################################
 msgid "drive %m.dualMotors %m.turnStyle %n seconds"
-msgstr "drive: モータ %m.dualMotors を %m.turnStyle に %n びょうまわす"
+msgstr "drive: モータ %m.dualMotors を %m.turnStyle に %n びょうだけまわす"
 
 msgid "start motor %m.whichMotorPort speed %n"
-msgstr "start: モータ %m.whichMotorPort を %n のスピードでまわす"
+msgstr "start: モータ %m.whichMotorPort をパワー %n でまわす"
 
 msgid "rotate motor %m.whichMotorPort speed %n by %n degrees then %m.brakeCoast"
-msgstr "rotate: モータ %m.whichMotorPort をかくど %n から %n まで まわす %m.brakeCoast"
+msgstr "rotate: モータ %m.whichMotorPort をパワー %n で %n どまわす %m.brakeCoast"
 
 msgid "stop motors %m.whichMotorPort %m.brakeCoast"
 msgstr "stop: モータ %m.whichMotorPort をとめる %m.brakeCoast"
@@ -2136,20 +2136,20 @@ msgstr "LEDを %m.patterns にひからせる"
 msgid "when button pressed on port %m.whichInputPort"
 msgstr "タッチセンサ %m.whichInputPort がおされたらプログラムかいし"
 
-#-msgid "when IR remote %m.buttons pressed port %m.whichInputPort"
-#-msgstr ""
+msgid "when IR remote %m.buttons pressed port %m.whichInputPort"
+msgstr ""
 
 msgid "button pressed %m.whichInputPort"
 msgstr "タッチセンサ %m.whichInputPort がおされたかはんだんする"
 
 msgid "play note %m.note duration %n ms"
-msgstr "%m.note のおとを duration %n ミリびょうならす"
+msgstr "%m.note のおとを %n ミリびょうならす"
 
 msgid "play frequency %n duration %n ms"
-msgstr "しゅうはすう %n のおとを duration %n ミリびょうならす"
+msgstr "しゅうはすう %n のおとを %n ミリびょうならす"
 
 msgid "light sensor %m.whichInputPort %m.lightSensorMode"
-msgstr "ひかり/いろセンサ %m.whichInputPort ではかる %m.lightSensorMode"
+msgstr "センサ %m.whichInputPort で %m.lightSensorMode をはかる"
 
 msgid "measure distance %m.whichInputPort"
 msgstr "きょりをセンサ %m.whichInputPort ではかる"
@@ -2157,20 +2157,41 @@ msgstr "きょりをセンサ %m.whichInputPort ではかる"
 msgid "measure temp %m.whichInputPort"
 msgstr "おんどをセンサ %m.whichInputPort ではかる"
 
-#-msgid "remote button %m.whichInputPort"
-#-msgstr ""
+msgid "remote button %m.whichInputPort"
+msgstr ""
 
-#-msgid "motor %m.motorInputMode %m.whichMotorIndividual"
-#-msgstr ""
+msgid "motor %m.motorInputMode %m.whichMotorIndividual"
+msgstr ""
 
 msgid "forward"
-msgstr "まえ"
+msgstr "まえむき"
 
-msgid "reverse"
-msgstr "うしろ"
+msgid "reflected"
+msgstr "ひかり"
 
-msgid "right"
-msgstr "みぎ"
+msgid "green"
+msgstr "みどり"
 
-msgid "left"
-msgstr "ひだり"
+msgid "red"
+msgstr "あか"
+
+msgid "orange"
+msgstr "オレンジ"
+
+msgid "green flashing"
+msgstr "みどり てんめつ"
+
+msgid "red flashing"
+msgstr "あか てんめつ"
+
+msgid "orange flashing"
+msgstr "オレンジ てんめつ"
+
+msgid "green pulse"
+msgstr "みどり パルス"
+
+msgid "red pulse"
+msgstr "あか パルス"
+
+msgid "orange pulse"
+msgstr "オレンジ パルス"
