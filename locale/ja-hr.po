@@ -2134,13 +2134,13 @@ msgid "set LED %m.patterns"
 msgstr "LEDを %m.patterns にひからせる"
 
 msgid "when button pressed on port %m.whichInputPort"
-msgstr "タッチセンサ %m.whichInputPort がおされたらプログラムかいし"
+msgstr "タッチセンサ %m.whichInputPort がおされたとき"
 
 msgid "when IR remote %m.buttons pressed port %m.whichInputPort"
 msgstr ""
 
 msgid "button pressed %m.whichInputPort"
-msgstr "タッチセンサ %m.whichInputPort がおされたかはんだんする"
+msgstr "タッチセンサ %m.whichInputPort がおされた"
 
 msgid "play note %m.note duration %n ms"
 msgstr "%m.note のおとを %n ミリびょうならす"
@@ -2195,3 +2195,7 @@ msgstr "あか パルス"
 
 msgid "orange pulse"
 msgstr "オレンジ パルス"
+
+# override
+msgid "off"
+msgstr "オフ"
