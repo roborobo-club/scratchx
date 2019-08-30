@@ -2137,7 +2137,7 @@ msgid "when button pressed on port %m.whichInputPort"
 msgstr "タッチセンサ %m.whichInputPort がおされたとき"
 
 msgid "when IR remote %m.buttons pressed port %m.whichInputPort"
-msgstr ""
+msgstr "ボタン %m.buttons がポート %m.whichInputPort のせきがいせんリモコンでおされたとき"
 
 msgid "button pressed %m.whichInputPort"
 msgstr "タッチセンサ %m.whichInputPort がおされた"
@@ -2158,10 +2158,10 @@ msgid "measure temp %m.whichInputPort"
 msgstr "おんどをセンサ %m.whichInputPort ではかる"
 
 msgid "remote button %m.whichInputPort"
-msgstr ""
+msgstr "せきがいせんリモコン %m.whichInputPort のボタンをしゅとく"
 
 msgid "motor %m.motorInputMode %m.whichMotorIndividual"
-msgstr ""
+msgstr "%m.motorInputMode をモータ %m.whichMotorIndividual ではかる"
 
 msgid "forward"
 msgstr "まえむき"
@@ -2199,3 +2199,9 @@ msgstr "オレンジ パルス"
 # override
 msgid "off"
 msgstr "オフ"
+
+msgid "position"
+msgstr "いち"
+
+msgid "speed"
+msgstr "はやさ"

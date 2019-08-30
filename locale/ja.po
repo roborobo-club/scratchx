@@ -2136,7 +2136,7 @@ msgid "when button pressed on port %m.whichInputPort"
 msgstr "タッチセンサ %m.whichInputPort が押されたとき"
 
 msgid "when IR remote %m.buttons pressed port %m.whichInputPort"
-msgstr ""
+msgstr "ボタン %m.buttons がポート %m.whichInputPort の赤外線リモコンで押されたとき"
 
 msgid "button pressed %m.whichInputPort"
 msgstr "タッチセンサ %m.whichInputPort が押された"
@@ -2157,10 +2157,10 @@ msgid "measure temp %m.whichInputPort"
 msgstr "温度をセンサ %m.whichInputPort で測る"
 
 msgid "remote button %m.whichInputPort"
-msgstr ""
+msgstr "赤外線リモコン %m.whichInputPort のボタンを取得"
 
 msgid "motor %m.motorInputMode %m.whichMotorIndividual"
-msgstr ""
+msgstr "%m.motorInputMode をモータ %m.whichMotorIndividual で測る"
 
 msgid "forward"
 msgstr "前向き"
@@ -2198,3 +2198,9 @@ msgstr "オレンジ パルス"
 # override
 msgid "off"
 msgstr "オフ"
+
+msgid "position"
+msgstr "位置"
+
+msgid "speed"
+msgstr "速さ"
