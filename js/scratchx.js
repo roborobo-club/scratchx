@@ -3,6 +3,11 @@ var Scratch = Scratch || {};
 Scratch.editorIsReady = false;
 Scratch.FlashApp = Scratch.FlashApp || {};
 
+// タイトルをかなり強引に矯正
+setInterval(function() {
+    document.title = 'ScratchX ロボロボ・Club Edition';
+}, 2000);
+
 var editorId = "scratch";
 var initialPage = "home";
 var ShortURL = {
