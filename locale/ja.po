@@ -1346,7 +1346,7 @@ msgid "Save now"
 msgstr "直ちに保存"
 
 msgid "Save project?"
-msgstr "プロジェクトを保存?"
+msgstr "プロジェクトを保存"
 
 msgid "save to local file"
 msgstr "ローカルファイルに保存"
@@ -1782,7 +1782,7 @@ msgstr ""
 # Offline editor only
 #, fuzzy
 msgid "Save Project"
-msgstr "プロジェクトを保存?"
+msgstr "プロジェクトを保存"
 
 # Offline editor only
 msgid "Server error:"
@@ -2113,6 +2113,9 @@ msgstr ""
 #~ msgid "New sound"
 #~ msgstr "新しい音"
 
+
+msgid "Load Project"
+msgstr "プロジェクトを読み込む"
 
 ###############################################################################
 # EV3 Extension

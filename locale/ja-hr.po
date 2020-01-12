@@ -1388,7 +1388,7 @@ msgid "Save now"
 msgstr "ただちにほぞん"
 
 msgid "Save project?"
-msgstr ""
+msgstr "プロジェクトをほぞん"
 
 msgid "save to local file"
 msgstr "ローカルファイルにほぞん"
@@ -1847,7 +1847,7 @@ msgstr ""
 
 # Offline editor only
 msgid "Save Project"
-msgstr ""
+msgstr "プロジェクトをほぞん"
 
 # Offline editor only
 msgid "Server error:"
@@ -2114,6 +2114,9 @@ msgstr ""
 #~ msgid "New sound"
 #~ msgstr "あたらしいおと"
 
+
+msgid "Load Project"
+msgstr "プロジェクトをよみこむ"
 
 ###############################################################################
 # EV3
