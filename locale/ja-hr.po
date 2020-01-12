@@ -2151,6 +2151,9 @@ msgstr "しゅうはすう %n のおとを %n ミリびょうならす"
 msgid "light sensor %m.whichInputPort %m.lightSensorMode"
 msgstr "センサ %m.whichInputPort で %m.lightSensorMode をはかる"
 
+msgid "measure sound %m.whichInputPort"
+msgstr "おとをセンサ %m.whichInputPort ではかる"
+
 msgid "measure distance %m.whichInputPort"
 msgstr "きょりをセンサ %m.whichInputPort ではかる"
 

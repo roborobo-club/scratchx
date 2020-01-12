@@ -2153,6 +2153,9 @@ msgstr "センサ %m.whichInputPort で %m.lightSensorMode を測る"
 msgid "measure distance %m.whichInputPort"
 msgstr "距離をセンサ %m.whichInputPort で測る"
 
+msgid "measure sound %m.whichInputPort"
+msgstr "音をセンサ %m.whichInputPort で測る"
+
 msgid "measure temp %m.whichInputPort"
 msgstr "温度をセンサ %m.whichInputPort で測る"
 
